@@ -43,7 +43,7 @@ The notebook covers:
 
 ## Power BI Dashboard
 
-`Banking_project.pbix` presents an interactive dashboard view of the same data,
+https://github.com/sunnyraavan6-Sunny/Banking-Risk-Analytics-Credit-Profiling-Dashboard/blob/main/Banking_project.pbix presents an interactive dashboard view of the same data,
 suitable for business-facing reporting (income segmentation, account balances,
 customer demographics, etc.). Open it with Power BI Desktop to explore.
 
